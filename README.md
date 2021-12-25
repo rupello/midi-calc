@@ -1,6 +1,6 @@
-## Get started
+## MIDI Calculator with Svelte
 
-Install the dependencies...
+Instructions:
 
 ```bash
 npm install
